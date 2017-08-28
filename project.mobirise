@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 5,
+    "uniqCompNum": 10,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -109,6 +109,186 @@
               "text-align": "center"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-7",
+          "_params": {
+            "imageSize": "29",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=d2z-U8_gfbA",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "How to send high quality image in whatsapp.",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-8",
+          "_params": {
+            "imageSize": "29",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=6y62R8nmVkg",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "Automatically add photos to your phone contacts from Facebook profiles.",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-9",
+          "_params": {
+            "imageSize": "30",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=nJcfvfJVAsk",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "ഈബേയിൽ നിന്നും 15% ഡിസ്‌കൗണ്ട്",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
           "_tags": [
